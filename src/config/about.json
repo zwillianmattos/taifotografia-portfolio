@@ -1,0 +1,16 @@
+{
+    "logo": "./img/logo.svg",
+    "userPhoto": "./img/tairine.png",
+    "description": "Fotografia, Design e Pedagogia",
+    "aboutme": "Olá, meu nome é Tairine, sempre adorei tirar fotos e estou sempre aprendendo técnicas para melhorar minhas habilidades fotográficas.\n\nMinha formação é em pedagogia, então sempre tenho crianças ao meu redor, adoro trabalhar com elas, fui professora por 2 anos. Estou sempre procurando as melhores coisas que a fotografia pode fazer por nossas histórias de vida. Registre e fotografe as melhores lembranças e recordações!\n\nHoje sou fotógrafa especializada em família, maternidade, recém-nascidos, restos femininos.\n\nVamos falar do seu ensaio?",
+    "skills": [
+        "Adobe PhotoShop",
+        "Adobe Lightroom",
+        "Sony Vegas",
+        "Premiere Pro",
+        "Adobe XD",
+        "Adobe Illustrator"
+    ]
+}
+
+
